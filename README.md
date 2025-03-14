@@ -9,5 +9,5 @@ e conviene convertirlo in .safetensor.
 
 
 ```
-python inspect_pt_file.py cfm_model.pt cfm_model.pt
+python inspect_pt_file.py cfm_model.pt
 ```
